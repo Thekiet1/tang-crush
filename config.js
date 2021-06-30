@@ -1,7 +1,6 @@
 const CONFIG = {
     introTitle: 'Baybe à!',
-    introDesc: 'Cậu á, đi không cẩn thận gì cả. Ngã vào tim tớ rồi đây này.
-    Chính vì thế : My heart calls out for you.',
+    introDesc: 'Cậu á, đi không cẩn thận gì cả. Ngã vào tim tớ rồi đây này.Chính vì thế : My heart calls out for you.',
     btnIntro: 'Ấn vô đây nè :3',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
