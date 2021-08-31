@@ -1,15 +1,18 @@
 const CONFIG = {
-    introTitle: 'Ê nhóc!',
-    introDesc: `M dạo này học hành sao rồi :))`,
-    btnIntro: 'Ai biết =))',
-    title: 'Tui có 1 điều muốn nói là 😙',
-    desc: 'Không học mốt bốc đất mà ăn ',
-    btnYes: 'Học thì học',
-    btnNo: 'Có cc =))',
-    question:'Lo mà học đi nha con đizz',
-    btnReply: 'Viết ý kiến cho t',
-    reply: 'Cản ơn m đã giúp t',
-    mess: 'Dume, chuyện. Anh em mà:))) ',
-    messDesc: 'Lo học đi nha bé. Bớt bớt lại ',
-    btnAccept: 'Okiiiii lun <3',
+    introTitle: 'Babe à!',
+    introDesc: `Trái đất vốn lạ thường
+    Mà sao em cứ đi nhầm đường
+    Lạc vào tim anh lẻ loi
+    Đằng sau chữ yêu đây là thương`,
+    btnIntro: 'hihi',
+    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
+    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
+    btnYes: 'Yêu anh ghê á <33',
+    btnNo: 'Không, Anh trai à :3',
+    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    btnReply: 'Gửi cho anh <3',
+    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
+    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
+    messDesc: 'Mãi yêu em nhó.',
+    btnAccept: 'Okiiiii em cũng vậy <3',
 }
